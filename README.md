@@ -1,3 +1,5 @@
-# foobar
+# Emobooks
 
-a [Sails](http://sailsjs.org) application
+[Sails](http://sailsjs.org) application
+
+Testing the framwork SailsJs
